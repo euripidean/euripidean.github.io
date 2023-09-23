@@ -1,7 +1,7 @@
 <h1> ey up /əyˈ uh-p/
 { 'hello' in Yorkshire }</h1>
 <img src="https://github.com/euripidean/euripidean.github.io/assets/33559193/635cc010-f696-48d9-9d0f-730367046850">
-<h2>Dev Degree Intern at Shopify | Applied Computer Science at Dominican University of California</h2>
+<p>Dev Degree Intern at Shopify | Applied Computer Science at Dominican University of California</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
