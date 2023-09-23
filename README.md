@@ -1,12 +1,7 @@
 <h2> ey up /əyˈ uh-p/
 { 'hello' in Yorkshire }</h2>
-![image](https://github.com/euripidean/euripidean.github.io/assets/33559193/635cc010-f696-48d9-9d0f-730367046850)
-
-<h3>About Me </h3>
-- Originally from the UK, now living in Vancouver, BC.
-- Studying Applied Computer Science at Dominican University of California.
-- Dev Degree intern at **Shopify**
-- Learning TypeScript, React, GraphQl.
+<img src="https://github.com/euripidean/euripidean.github.io/assets/33559193/635cc010-f696-48d9-9d0f-730367046850">
+<h2>Dev Degree Intern at Shopify | Applied Computer Science at Dominican University of California</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
